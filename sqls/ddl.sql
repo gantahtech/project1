@@ -1,5 +1,5 @@
-create  table student(
-    name varchar(20),
+create  table studentTable(
+    name char(20),
     age int,
     phone_num double,
     course varchar(30)
