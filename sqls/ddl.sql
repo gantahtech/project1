@@ -3,5 +3,6 @@ create  table student(
     age int,
     date_of_birth datetime,
     phone_num double,
-    dept varchar(30)
+    course varchar(30),
+    address varchar(30)
 );
