@@ -8,3 +8,25 @@ git pull <link>
 
 ## Started working on braches
 My aim is to work on the branches locally and merge these changes into local main and delete local brach
+
+# Listing in Git
+## Numbered Listings in Git
+
+1. Hari
+2. Prasad
+3. Ganta
+
+## Unnumbered Listings in Git
+
+* Mango
+* Banana
+* Kiwi
+
+
+# Git Link
+
+[Remote Link](https://google.com)
+
+[local File Link](main.py)
+
+[Local Folder Link](./sqls/)
