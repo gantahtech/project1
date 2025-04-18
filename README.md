@@ -37,3 +37,4 @@ Feature A
 |---------|-----|
 | Hari    | 23  |
 | Gayatri | 25  |
+| Haritha | 27  |
