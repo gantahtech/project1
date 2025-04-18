@@ -32,3 +32,8 @@ My aim is to work on the branches locally and merge these changes into local mai
 [Local Folder Link](./sqls/)
 
 Feature A
+
+| Name    | Age |
+|---------|-----|
+| Hari    | 23  |
+| Gayatri | 25  |
